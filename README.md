@@ -1,7 +1,6 @@
 # 5p_clothes_Fixed
 5p_clothes - Clothing Menu Fixed
 
-![7d192ea4b506e520aeacf7a46b6121d611822f34|690x388](upload://20DJiNpsJQCZpmMoHRFJPcbBTeK.png)
 
 EN; **This is a clothing menu with a nice UI that enables the players to put and take off their clothing during their gameplay.**
 
@@ -37,4 +36,4 @@ SCRIPT ORIGINAL: [[FREE] [STANDALONE] Modern Clothing Menu](https://forum.cfx.re
 ERROR: **Fallo en la función de llamada a Font Awesome Pro que no mostraba los iconos del menu** 
 FIX: **Se hizo el cambio a Font Awesome Basico para poder mostrar los iconos**
 
-![Captura de pantalla 2023-07-06 224843|690x388](upload://tQTEKG9jeJ8tYlgAOBW6r7hyFkx.jpeg)
+
